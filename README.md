@@ -18,17 +18,3 @@ A high-performance, real-time chat application built using the MERN (MongoDB, Ex
 - **Real-Time Communication**: Socket.IO
 - **Caching & Message Queues**: Redis (Pub/Sub)
 
-## Installation
-
-### Prerequisites
-
-- Node.js
-- MongoDB
-- Redis
-
-### Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
